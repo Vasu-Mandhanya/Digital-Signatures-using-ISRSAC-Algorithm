@@ -3,7 +3,7 @@ A simple python program to sign text using either the RSA or ISRSAC algorithm wi
 
 <h2> To Run: </h2>
 
-Open the repository folder in Command Promt/ terminal in run the following commands:
+Open the repository folder in Command Prompt / terminal in run the following commands:
 ```
 pip3 install -r requirements.txt
 
